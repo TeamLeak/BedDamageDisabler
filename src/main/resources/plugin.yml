@@ -1,0 +1,9 @@
+name: DragonBedDisabler
+version: '${version}'
+main: com.github.leanfe.DragonBedDisabler
+api-version: 1.19
+prefix: DBD
+load: STARTUP
+authors: [ Leanfe ]
+description: A plugin that disables damage to the dragon by exploding the bed
+website: leanfe.github.io
